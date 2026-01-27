@@ -1,7 +1,7 @@
 function model = k_ALD_Treino(X, Y, options)
 % Implementacao KRLS - ALD baseado no Artigo de ENGEL 2004/KAF box
 %
-% Objetivo: Aplicacao da knlms em predicao
+% Objetivo: Aplicacao do KRLS - ALD para predicao
 %
 % Autor: Allan Kelvin M Sales
 % Data: 24/11/2025
