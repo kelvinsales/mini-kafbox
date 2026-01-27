@@ -3,7 +3,7 @@
 function model = kn_K_Treino(X, Y, options)
 % Implementacao KNLMS baseado no Artigo de Cedric 2009/KAF box
 %
-% Objetivo: Aplicacao da knlms em predicao de chuvas
+% Objetivo: Aplicacao da K-NLMS para predicao
 %
 % Autor: Allan Kelvin M Sales
 % Data: 24/11/2025
