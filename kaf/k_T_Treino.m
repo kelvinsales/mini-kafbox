@@ -2,7 +2,7 @@
 function model = k_T_Treino(X, Y, options)
   % Implementacao KRLS - Tracker baseado no Artigo de VAERENBERGH 2012/KAF box
   %
-  % Objetivo: Aplicacao da KTLS-T em predicao
+  % Objetivo: Aplicacao da KTLS-T para predicao
   %
   % Autor: Allan Kelvin M Sales
   % Data: 24/11/2025
