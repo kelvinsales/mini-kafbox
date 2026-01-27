@@ -16,7 +16,7 @@ This toolbox contains simplified implementations of the following models:
 - **SKRLS** (Sparse Kernel Recursive Least Squares)
 - **QKLMS** (Quantized Kernel Least Mean Squares)
 - **SVR** (Support Vector Regression - optimized function for LIBSVM, a Octave library)
-- **MLP** (Multi Layer Perceotron)
+- **MLP** (Multi Layer Perceptron)
 - **LSTM** (A custom, native GNU Octave implementation of Long Short-Term Memory networks)
 
 ## Research & Benchmarking
