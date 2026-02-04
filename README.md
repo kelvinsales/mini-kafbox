@@ -1,5 +1,5 @@
 
-## miniKAF_box: Simplified Toolbox for Kernel Adaptive Filtering and Neural Networks in GNU Octave 
+## miniKAF_box: A Mini Toolbox Kernel Adaptive Filtering and Neural Networks for GNU Octave
 
 **miniKAF_box** is a lightweight, pedagogical, and functional toolbox for Kernel Adaptive Filtering (KAF) and Neural Networks. It is designed specifically for researchers, students, and engineers who need a transparent and easy-to-debug implementation of state-of-the-art algorithms in GNU Octave.
 
@@ -14,6 +14,7 @@ This toolbox contains simplified implementations of the following models:
 - **KRLS** (Kernel Recursive Least Squares)
 - **KRLS-T** (Kernel Recursive Least Squares Tracker)
 - **SKRLS** (Sparse Kernel Recursive Least Squares)
+- **KNLMS** (Kernel Normalized Least Mean Squares)
 - **QKLMS** (Quantized Kernel Least Mean Squares)
 - **SVR** (Support Vector Regression - optimized function for LIBSVM, a Octave library)
 - **MLP** (Multi Layer Perceptron)
