@@ -2,7 +2,7 @@
 mini-kafbox: A Kernel Adaptive Filtering and Neural Network Mini-Toolbox for GNU Octave
 ===
 
-**miniKAF_box** is a lightweight, pedagogical, and functional toolbox for Kernel Adaptive Filtering (KAF) and Neural Networks. It is designed specifically for researchers, students, and engineers who need a transparent and easy-to-debug implementation of state-of-the-art algorithms in GNU Octave.
+**mini-kafbox** is a lightweight, pedagogical, and functional toolbox for Kernel Adaptive Filtering (KAF) and Neural Networks. It is designed specifically for researchers, students, and engineers who need a transparent and easy-to-debug implementation of state-of-the-art algorithms in GNU Octave.
 
 ## Why use miniKAF_box?
 
